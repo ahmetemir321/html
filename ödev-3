@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ödev-3</title>
+</head>
+<body>
+<h1>Spoonful</h1>
+<p>Sosyal medyada ünlenen spoonful'u kaşık tatlısı Üstelik her tarz tatlı sevene de hitap eden türden diyebiliriz.</p>
+<h2>Malzemeleri</h2>
+
+    <li>2 adet yumurta sarısı</li>
+    <li>1 litre süt</li>
+    <li>3 yemek kaşığı un</li>
+    <li>3 yemek kaşığı nişasta</li>
+    <li>1 çay bardağı şeker</li>
+    <li>1 paket vanilya</li>
+    <li>1 paket krema </li>
+<h2>Yapılışı</h2>
+<ol>
+<li>Muhallebisi için vanilya ve krema hariç diğer malzemeleri uygun bir tencereye alıp orta ateşte karıştırarak pişirin.</li>
+<li>Koyulaşınca ocağın altını kapatıp vanilya ekleyip tekrar karıştırın hızlı soğuması için başka bir kaba alıp üzerini streç film ile kapatıp soğumasını bekleyin</li>
+<li>Bu arada tatlının tabanı için keki ufalayıp kaselere iki yemek kaşığı kadar ekleyin.</li>
+<li>Soğuyan muhallebiye krema ekleyip mikserle çırpın ve hazırladığınız ufalanmış kekin üzerine bir kepçe muhallebi ekleyin.</li>
+<li>Son olarak üzerinin ganajı için kremayı çok az ısıtıp üzerine çikolata ekleyin süreklili karıştırarak çikolatanın erimesini sağlayın.</li>
+<li>Porsiyonlara ayırdığımız tatlının üzerlerine ganajı ekleyip üzerine çikolata parçaları ekleyip servis edebilirsiniz.</li>
+</ol>
+<p>Afiyet olsun</p>
+<img src="https://i.nefisyemektarifleri.com/2025/03/19/spoonfull-tarifi.jpg" alt="Spoonful" width="400" height="400">
+</body>
+</html>
