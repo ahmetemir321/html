@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anasayfa</title>
+    <link rel="stylesheet" href="deneme.css">
+    
+    <article>
+    <h1 class="font-30 center">Marsh Giyim</h1>
+    <p class="font-15 center"><a href="iletişim.html">Bize Ulaşın</a></p>
+    <p class="font-15 center"><a href="Hakkımızda.html">Hakkımızda</a></p>
+ </article>
+</head>
+<body>
+<article>
+<h2 class="center text-red">Anasayfa</h2>
+<p class="font-15 center">Marsh Giyim olarak, rahat ve şık tişörtler sunmayı amaçlıyoruz. Koleksiyonlarımızda, günlük yaşamdan ilham alan tasarımlar 
+bulabilirsiniz.</p>
+<p class="font-15 center">kaliteli kumaşlar kullanarak, uzun ömürlü ve konforlu ürünler sunuyoruz</p> 
+</article>
+
+<article>
+<h2 class="center text-teal">Kategoriler</h2>
+<div class="container">
+    <div class="center yazi"><a href="sweat.html">Sweatshirt</a></div>
+    <div class="center yazi"><a href="T-shirt.html">T-shirt</a></div>
+    <div class="center yazi"><a href="hoodie.html">Hoodie</a></div>
+  
+</article>
+</body>
+</html>
