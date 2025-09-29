@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google-New</title>
+</head>
+<style>
+.center{
+    text-align: center;
+}
+
+.bg-grey{
+    background-color: lightgrey;
+}
+
+.about{
+    display: inline-block;
+    width: 50px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+.store{
+    display: inline-block;
+    width: 50px;
+    margin-left: 1px;
+    background-color: rgb(255, 255, 255);
+}
+
+.gmail{
+    display: inline-block;
+    width: 50px;
+    margin: 10px;
+    background-color: white;
+    float: right;
+    margin-right: 1px;
+}
+
+.images{
+ display: inline-block;
+    width: 50px;
+    margin: 10px;
+    background-color: white;
+    float: right;
+}
+
+.signin{
+    display: inline-block;
+    width: 50px;
+    border-radius: 6px;
+    float: right;
+    margin: 5px;
+}
+
+.box{
+    display: block;
+    border: 6px solid lightblue;
+    border-radius: 7px;
+    width: 50px;
+    background-color: lightblue;
+}
+
+.margin{
+    margin-top: 120px;
+}
+
+.button-margin{
+    margin: 10px;
+}
+
+.search-input {
+    width: 600px;
+    height: 40px;
+    border: 2px solid #dfe1e5;
+    border-radius: 24px;
+    padding: 0 20px;
+    font-size: 18px;
+    outline: 0px;
+    box-sizing: border-box;
+    transition: box-shadow 0.2s;
+    margin: 10px;
+}
+.search-input:focus {
+    box-shadow: 0 1px 6px rgba(32,33,36,0.28);
+    border-color: #4285f4;
+}
+
+.left-button{
+    width: 130px;
+    height: 30px;
+    border-radius: 10px;
+    border: 4px ;
+    margin-right: 10px; 
+}
+
+.right-button{
+    width: 140px;
+    height: 30px;
+    border-radius: 10px;
+    border: 4px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: lightgrey;
+    border-bottom: 1px solid #ccc;
+    height: 90px;
+    width: 700px;
+    margin-top: 20px;
+    margin-left: 400px;
+}
+</style>
+<body>
+<div class="about">About</div>
+<div class="store">Store</div> 
+
+<div class="signin box">
+<a href="sign-in.html" target="blank">Sign In</a>
+</div>  
+<div class="images">Images</div>
+<div class="gmail"> 
+<a href="https://mail.google.com/mail/u/0/?ogbl#inbox">Gmail</a>
+</div>
+
+<div class="center margin">
+<img src="https://web.archive.org/web/20191130234759im_/https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" height="110px"> <br> 
+</div>
+<div class="center "> 
+    <form action="#" method="get">
+        <input type="search" class="search-input" placeholder="Search Google or type a URL"> <br>
+    </form>
+</div>
+<div class="center button-margin">
+<button class="left-button">Google Search</button>
+<button class="right-button">I'm Feeling Lucky</button>
+</div>
+</body>
+</html>
