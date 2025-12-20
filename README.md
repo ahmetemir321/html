@@ -1,2 +1,3 @@
-merhaba ben ahmet emir yolcu
-tarsus üniversitesi'nde yönetim bilişim sistemleri ikinci sınıf öğrencisiyim
+Merhaba ben 
+Ahmet Emir Yolcu
+Tarsus Üniversitesi'nde yönetim bilişim sistemleri ikinci sınıf öğrencisiyim
